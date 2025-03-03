@@ -1,0 +1,14 @@
+C:\Users\lev65\OneDrive\Máy tính\congviec\LS1\bin\Debug\net9.0\LS1.exe
+C:\Users\lev65\OneDrive\Máy tính\congviec\LS1\bin\Debug\net9.0\LS1.deps.json
+C:\Users\lev65\OneDrive\Máy tính\congviec\LS1\bin\Debug\net9.0\LS1.runtimeconfig.json
+C:\Users\lev65\OneDrive\Máy tính\congviec\LS1\bin\Debug\net9.0\LS1.dll
+C:\Users\lev65\OneDrive\Máy tính\congviec\LS1\bin\Debug\net9.0\LS1.pdb
+C:\Users\lev65\OneDrive\Máy tính\congviec\LS1\obj\Debug\net9.0\LS1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lev65\OneDrive\Máy tính\congviec\LS1\obj\Debug\net9.0\LS1.AssemblyInfoInputs.cache
+C:\Users\lev65\OneDrive\Máy tính\congviec\LS1\obj\Debug\net9.0\LS1.AssemblyInfo.cs
+C:\Users\lev65\OneDrive\Máy tính\congviec\LS1\obj\Debug\net9.0\LS1.csproj.CoreCompileInputs.cache
+C:\Users\lev65\OneDrive\Máy tính\congviec\LS1\obj\Debug\net9.0\LS1.dll
+C:\Users\lev65\OneDrive\Máy tính\congviec\LS1\obj\Debug\net9.0\refint\LS1.dll
+C:\Users\lev65\OneDrive\Máy tính\congviec\LS1\obj\Debug\net9.0\LS1.pdb
+C:\Users\lev65\OneDrive\Máy tính\congviec\LS1\obj\Debug\net9.0\LS1.genruntimeconfig.cache
+C:\Users\lev65\OneDrive\Máy tính\congviec\LS1\obj\Debug\net9.0\ref\LS1.dll
