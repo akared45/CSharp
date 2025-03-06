@@ -1,0 +1,14 @@
+C:\Users\vinhl\Desktop\BT2\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\BT2.exe
+C:\Users\vinhl\Desktop\BT2\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\BT2.deps.json
+C:\Users\vinhl\Desktop\BT2\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\BT2.runtimeconfig.json
+C:\Users\vinhl\Desktop\BT2\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\BT2.dll
+C:\Users\vinhl\Desktop\BT2\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\BT2.pdb
+C:\Users\vinhl\Desktop\BT2\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\BT2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vinhl\Desktop\BT2\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\BT2.AssemblyInfoInputs.cache
+C:\Users\vinhl\Desktop\BT2\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\BT2.AssemblyInfo.cs
+C:\Users\vinhl\Desktop\BT2\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\BT2.csproj.CoreCompileInputs.cache
+C:\Users\vinhl\Desktop\BT2\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\BT2.dll
+C:\Users\vinhl\Desktop\BT2\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\refint\BT2.dll
+C:\Users\vinhl\Desktop\BT2\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\BT2.pdb
+C:\Users\vinhl\Desktop\BT2\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\BT2.genruntimeconfig.cache
+C:\Users\vinhl\Desktop\BT2\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ref\BT2.dll
