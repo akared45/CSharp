@@ -1,0 +1,14 @@
+C:\Users\vinhl\Desktop\BT2\KamenRider\KamenRider\obj\Debug\net8.0\KamenRider.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vinhl\Desktop\BT2\KamenRider\KamenRider\obj\Debug\net8.0\KamenRider.AssemblyInfoInputs.cache
+C:\Users\vinhl\Desktop\BT2\KamenRider\KamenRider\obj\Debug\net8.0\KamenRider.AssemblyInfo.cs
+C:\Users\vinhl\Desktop\BT2\KamenRider\KamenRider\obj\Debug\net8.0\KamenRider.csproj.CoreCompileInputs.cache
+C:\Users\vinhl\Desktop\BT2\KamenRider\KamenRider\bin\Debug\net8.0\KamenRider.exe
+C:\Users\vinhl\Desktop\BT2\KamenRider\KamenRider\bin\Debug\net8.0\KamenRider.deps.json
+C:\Users\vinhl\Desktop\BT2\KamenRider\KamenRider\bin\Debug\net8.0\KamenRider.runtimeconfig.json
+C:\Users\vinhl\Desktop\BT2\KamenRider\KamenRider\bin\Debug\net8.0\KamenRider.dll
+C:\Users\vinhl\Desktop\BT2\KamenRider\KamenRider\bin\Debug\net8.0\KamenRider.pdb
+C:\Users\vinhl\Desktop\BT2\KamenRider\KamenRider\obj\Debug\net8.0\KamenRider.dll
+C:\Users\vinhl\Desktop\BT2\KamenRider\KamenRider\obj\Debug\net8.0\refint\KamenRider.dll
+C:\Users\vinhl\Desktop\BT2\KamenRider\KamenRider\obj\Debug\net8.0\KamenRider.pdb
+C:\Users\vinhl\Desktop\BT2\KamenRider\KamenRider\obj\Debug\net8.0\KamenRider.genruntimeconfig.cache
+C:\Users\vinhl\Desktop\BT2\KamenRider\KamenRider\obj\Debug\net8.0\ref\KamenRider.dll
