@@ -1,0 +1,14 @@
+C:\Users\vinhl\Desktop\BT2\ProductManagement\ProductManagement\bin\Debug\net8.0\ProductManagement.exe
+C:\Users\vinhl\Desktop\BT2\ProductManagement\ProductManagement\bin\Debug\net8.0\ProductManagement.deps.json
+C:\Users\vinhl\Desktop\BT2\ProductManagement\ProductManagement\bin\Debug\net8.0\ProductManagement.runtimeconfig.json
+C:\Users\vinhl\Desktop\BT2\ProductManagement\ProductManagement\bin\Debug\net8.0\ProductManagement.dll
+C:\Users\vinhl\Desktop\BT2\ProductManagement\ProductManagement\bin\Debug\net8.0\ProductManagement.pdb
+C:\Users\vinhl\Desktop\BT2\ProductManagement\ProductManagement\obj\Debug\net8.0\ProductManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vinhl\Desktop\BT2\ProductManagement\ProductManagement\obj\Debug\net8.0\ProductManagement.AssemblyInfoInputs.cache
+C:\Users\vinhl\Desktop\BT2\ProductManagement\ProductManagement\obj\Debug\net8.0\ProductManagement.AssemblyInfo.cs
+C:\Users\vinhl\Desktop\BT2\ProductManagement\ProductManagement\obj\Debug\net8.0\ProductManagement.csproj.CoreCompileInputs.cache
+C:\Users\vinhl\Desktop\BT2\ProductManagement\ProductManagement\obj\Debug\net8.0\ProductManagement.dll
+C:\Users\vinhl\Desktop\BT2\ProductManagement\ProductManagement\obj\Debug\net8.0\refint\ProductManagement.dll
+C:\Users\vinhl\Desktop\BT2\ProductManagement\ProductManagement\obj\Debug\net8.0\ProductManagement.pdb
+C:\Users\vinhl\Desktop\BT2\ProductManagement\ProductManagement\obj\Debug\net8.0\ProductManagement.genruntimeconfig.cache
+C:\Users\vinhl\Desktop\BT2\ProductManagement\ProductManagement\obj\Debug\net8.0\ref\ProductManagement.dll
